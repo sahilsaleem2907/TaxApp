@@ -10,6 +10,6 @@
  
  ##Screenshots
  
- ![alt text](https://drive.google.com/file/d/1I3aAs1gdkP4md8-jJ6M7L1IxAcsSbWaO/view?usp=sharing)
+ [alt text](https://drive.google.com/file/d/1I3aAs1gdkP4md8-jJ6M7L1IxAcsSbWaO/view?usp=sharing)
  
 
